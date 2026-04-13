@@ -18,11 +18,11 @@ jobs:
         with:
           node-version: 18
 
-      - name: Install dependencies (including dev)
-        run: npm install --include=dev
+      - name: Install dependencies
+        run: npm install
 
-      - name: Build React App (Vite fix)
-        run: npx vite build
+      - name: Build React App
+        run: npm run build
 
       - name: Build Docker Image
         run: docker build -t ${{ secrets.DOCKER_USERNAME }}/reactapp .
