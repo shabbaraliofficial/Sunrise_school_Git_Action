@@ -1,0 +1,398 @@
+{
+  "school": {
+    "name": "Sunrise Public School",
+    "tagline": "Learn. Lead. Serve."
+  },
+  "common": {
+    "skipToContent": "Skip to content"
+  },
+  "nav": {
+    "main": "Main navigation",
+    "home": "Home",
+    "about": "About Us",
+    "admissions": "Admissions",
+    "academicsMenu": "Academics",
+    "academics": "Academics",
+    "studentCorner": "Student Corner",
+    "faculty": "Faculty",
+    "gallery": "Gallery",
+    "notices": "Notice Board",
+    "contact": "Contact Us",
+    "menu": "Menu"
+  },
+  "footer": {
+    "description": "A caring school where curiosity, character, and community grow together.",
+    "quickLinks": "Quick Links",
+    "contactInfo": "Contact Information",
+    "social": "Social media",
+    "copyright": "© 2026 Sunrise Public School. All rights reserved."
+  },
+  "home": {
+    "metaTitle": "Home",
+    "metaDescription": "Sunrise Public School offers multilingual, student-centered learning.",
+    "hero": {
+      "kicker": "Admissions Open 2026-27",
+      "title": "Every child is known, challenged, and inspired.",
+      "subtitle": "Strong academics, creative expression, digital skills, sports, and values-based learning.",
+      "primaryCta": "Apply for Admission",
+      "secondaryCta": "Discover Our Story"
+    },
+    "achievements": {
+      "eyebrow": "School Highlights",
+      "title": "Outcomes families can trust",
+      "text": "Balanced academics, experienced mentors, and future-ready programs.",
+      "items": [
+        {
+          "value": "98%",
+          "label": "Board Success",
+          "text": "Consistent results with focused academic support."
+        },
+        {
+          "value": "42+",
+          "label": "Clubs and Activities",
+          "text": "Robotics, art, debate, music, sports, eco clubs."
+        },
+        {
+          "value": "1:18",
+          "label": "Mentor Ratio",
+          "text": "Smaller groups with individual attention."
+        }
+      ]
+    },
+    "announcements": {
+      "eyebrow": "Announcements",
+      "title": "Latest updates from campus",
+      "text": "Admissions, events, assessments, and student programs.",
+      "cta": "View Notice Board",
+      "items": [
+        {
+          "date": "April 20, 2026",
+          "title": "Admission interaction schedule released",
+          "text": "Families can check interaction slots online."
+        },
+        {
+          "date": "May 2, 2026",
+          "title": "Science and innovation fair",
+          "text": "Students present prototypes and research."
+        },
+        {
+          "date": "May 10, 2026",
+          "title": "Summer reading list published",
+          "text": "Grade-wise reading and reflection activities."
+        }
+      ]
+    },
+    "cta": {
+      "eyebrow": "Begin the journey",
+      "title": "Admission enquiries are open",
+      "text": "Meet our team, tour the campus, and choose the right learning path.",
+      "button": "Start Application"
+    }
+  },
+  "about": {
+    "metaTitle": "About Us",
+    "metaDescription": "History, mission, vision, and leadership.",
+    "eyebrow": "About the School",
+    "title": "A community built on curiosity and confidence",
+    "intro": "Since 1998, we have helped students discover their strengths.",
+    "imageAlt": "Students walking through a bright school campus",
+    "history": {
+      "eyebrow": "Our History",
+      "title": "Rooted in values, ready for tomorrow",
+      "text": "From a small start to a modern campus with labs, libraries, and arts."
+    },
+    "values": [
+      {
+        "kicker": "Mission",
+        "title": "Every learner matters",
+        "text": "Academic excellence, creativity, and responsible citizenship."
+      },
+      {
+        "kicker": "Vision",
+        "title": "Future-ready citizens",
+        "text": "Confident learners who think deeply and serve their communities."
+      },
+      {
+        "kicker": "Values",
+        "title": "Respect in action",
+        "text": "Integrity, empathy, discipline, curiosity, and teamwork."
+      }
+    ],
+    "principal": {
+      "imageAlt": "Principal greeting students",
+      "quote": "Education is strongest when children feel safe to ask questions.",
+      "name": "Dr. Ayesha Khan",
+      "role": "Principal"
+    }
+  },
+  "admissions": {
+    "metaTitle": "Admissions",
+    "metaDescription": "Admission details and online application form.",
+    "eyebrow": "Admissions",
+    "title": "A clear, supportive admission process",
+    "intro": "Our team helps families understand programs and next steps.",
+    "steps": {
+      "eyebrow": "How to Apply",
+      "title": "Simple steps to enrollment",
+      "text": "Complete the form, meet our team, and verify documents.",
+      "items": [
+        {
+          "title": "Submit enquiry",
+          "text": "Share student and parent details."
+        },
+        {
+          "title": "Campus interaction",
+          "text": "Meet the counselor and attend the interaction."
+        },
+        {
+          "title": "Document verification",
+          "text": "Submit certificates, photos, and ID proof."
+        },
+        {
+          "title": "Confirm admission",
+          "text": "Complete the fee process and receive orientation details."
+        }
+      ]
+    },
+    "form": {
+      "title": "Online Application Form",
+      "text": "Fill in the details and our office will contact you.",
+      "studentName": "Student Name",
+      "parentName": "Parent or Guardian Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "grade": "Grade Applying For",
+      "message": "Message",
+      "submit": "Submit Application",
+      "success": "Thank you. Your application enquiry has been received."
+    }
+  },
+  "academics": {
+    "metaTitle": "Academics",
+    "metaDescription": "Curriculum, departments, and academic programs.",
+    "eyebrow": "Academics",
+    "title": "A curriculum that connects knowledge with life",
+    "intro": "Conceptual understanding, language skills, and creative problem solving.",
+    "curriculum": {
+      "eyebrow": "Curriculum",
+      "title": "Strong foundations across every stage",
+      "text": "Learning is planned around outcomes and projects.",
+      "items": [
+        {
+          "title": "Primary School",
+          "text": "Activity-based learning builds literacy and numeracy."
+        },
+        {
+          "title": "Middle School",
+          "text": "Labs, projects, debates, and field work."
+        },
+        {
+          "title": "Senior School",
+          "text": "Subject pathways, guidance, and exam readiness."
+        }
+      ]
+    },
+    "departments": {
+      "eyebrow": "Departments",
+      "title": "Spaces that invite exploration",
+      "text": "Specialized departments help students learn by doing.",
+      "items": [
+        {
+          "title": "Science",
+          "text": "Hands-on experiments in physics, chemistry, biology.",
+          "image": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?auto=format&fit=crop&w=900&q=80",
+          "alt": "Students working in a science lab"
+        },
+        {
+          "title": "Mathematics",
+          "text": "Problem solving labs and applied numeracy.",
+          "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?auto=format&fit=crop&w=900&q=80",
+          "alt": "Mathematics equations on a board"
+        },
+        {
+          "title": "Languages",
+          "text": "English, Hindi, Urdu, Marathi, and reading programs.",
+          "image": "https://images.unsplash.com/photo-1519682337058-a94d519337bc?auto=format&fit=crop&w=900&q=80",
+          "alt": "Books arranged in a library"
+        },
+        {
+          "title": "Arts and Sports",
+          "text": "Music, visual arts, theatre, and athletics.",
+          "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?auto=format&fit=crop&w=900&q=80",
+          "alt": "Students running on a sports track"
+        }
+      ]
+    }
+  },
+  "faculty": {
+    "metaTitle": "Faculty",
+    "metaDescription": "Meet the teaching faculty.",
+    "eyebrow": "Faculty",
+    "title": "Experienced mentors who know every learner",
+    "intro": "Subject knowledge, warmth, and inclusive practice.",
+    "sectionEyebrow": "Teacher Profiles",
+    "sectionTitle": "Meet the team",
+    "sectionText": "Sample profiles for leadership and mentors.",
+    "teachers": [
+      {
+        "name": "Dr. Ayesha Khan",
+        "role": "Principal",
+        "text": "Leads school improvement and wellbeing.",
+        "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=900&q=80",
+        "alt": "Portrait of a school principal"
+      },
+      {
+        "name": "Rahul Deshmukh",
+        "role": "Head of Science",
+        "text": "Guides inquiry labs and research.",
+        "image": "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?auto=format&fit=crop&w=900&q=80",
+        "alt": "Portrait of a science teacher"
+      },
+      {
+        "name": "Farah Siddiqui",
+        "role": "Language Coordinator",
+        "text": "Builds reading culture and expression.",
+        "image": "https://images.unsplash.com/photo-1580894732444-8ecded7900cd?auto=format&fit=crop&w=900&q=80",
+        "alt": "Portrait of a language teacher"
+      },
+      {
+        "name": "Meera Patil",
+        "role": "Sports Director",
+        "text": "Coaches athletics and leadership.",
+        "image": "https://images.unsplash.com/photo-1590650153855-d9e808231d41?auto=format&fit=crop&w=900&q=80",
+        "alt": "Portrait of a sports teacher"
+      }
+    ]
+  },
+  "gallery": {
+    "metaTitle": "Gallery",
+    "metaDescription": "Photo and video gallery of school events.",
+    "eyebrow": "Gallery",
+    "title": "Moments from campus life",
+    "intro": "Celebrations, exhibitions, sports, and community programs.",
+    "photoEyebrow": "Photo Gallery",
+    "photoTitle": "Events and activities",
+    "photoText": "A sample collection from key events.",
+    "photos": [
+      {
+        "caption": "Annual cultural day",
+        "image": "https://images.unsplash.com/photo-1523580846011-d3a5bc25702b?auto=format&fit=crop&w=900&q=80",
+        "alt": "Students performing at a school event"
+      },
+      {
+        "caption": "Library reading week",
+        "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=900&q=80",
+        "alt": "Students reading books in a library"
+      },
+      {
+        "caption": "Science fair projects",
+        "image": "https://images.unsplash.com/photo-1567168544813-cc03465b4fa8?auto=format&fit=crop&w=900&q=80",
+        "alt": "Students presenting a science project"
+      }
+    ],
+    "videoEyebrow": "Video Gallery",
+    "videoTitle": "Featured campus videos",
+    "videos": [
+      {
+        "title": "Campus tour",
+        "url": "https://www.youtube.com/embed/ysz5S6PUM-U"
+      },
+      {
+        "title": "Student life highlights",
+        "url": "https://www.youtube.com/embed/jNQXAC9IVRw"
+      }
+    ]
+  },
+  "notices": {
+    "metaTitle": "Notice Board",
+    "metaDescription": "Latest notices and announcements.",
+    "eyebrow": "Notice Board",
+    "title": "Important updates in one place",
+    "intro": "Current announcements, schedules, and event updates.",
+    "sectionEyebrow": "Latest Notices",
+    "sectionTitle": "Current announcements",
+    "items": [
+      {
+        "date": "April 18, 2026",
+        "title": "Parent orientation for new admissions",
+        "text": "Orientation will be held in the school auditorium.",
+        "type": "Admissions"
+      },
+      {
+        "date": "April 25, 2026",
+        "title": "Grade 10 assessment timetable",
+        "text": "The first unit assessment schedule is available.",
+        "type": "Exams"
+      }
+    ]
+  },
+  "student": {
+    "metaTitle": "Student Corner",
+    "metaDescription": "Study materials, results, and student resources.",
+    "eyebrow": "Student Corner",
+    "title": "Resources for steady, confident learning",
+    "intro": "Download materials and check result status.",
+    "materialEyebrow": "Study Materials",
+    "materialTitle": "Grade-wise learning support",
+    "materialText": "Worksheets, reading lists, and revision packs.",
+    "materials": [
+      {
+        "grade": "Grades 1-3",
+        "title": "Foundational practice pack",
+        "text": "Reading, spelling, and number sense."
+      },
+      {
+        "grade": "Grades 4-6",
+        "title": "Concept revision sheets",
+        "text": "Science, mathematics, and languages."
+      }
+    ],
+    "resultsEyebrow": "Results",
+    "resultsTitle": "Recent result status",
+    "table": {
+      "class": "Class",
+      "exam": "Exam",
+      "status": "Status"
+    },
+    "results": [
+      {
+        "className": "Grade 5",
+        "exam": "Term 1",
+        "status": "Published"
+      },
+      {
+        "className": "Grade 10",
+        "exam": "Pre-board",
+        "status": "Coming Soon"
+      }
+    ]
+  },
+  "contact": {
+    "metaTitle": "Contact Us",
+    "metaDescription": "Contact Sunrise Public School by phone, email, form, or map.",
+    "eyebrow": "Contact",
+    "title": "We would love to hear from you",
+    "intro": "Reach the office for admissions, support, and visits.",
+    "infoEyebrow": "Reach Us",
+    "infoTitle": "School office information",
+    "infoText": "Office hours are open for enquiries and visits.",
+    "address": "Address",
+    "addressValue": "Sunrise Public School, Model Colony, Pune, Maharashtra 411016",
+    "phone": "Phone",
+    "phoneValue": "+91 20 1234 5678",
+    "email": "Email",
+    "emailValue": "info@sunrisepublicschool.edu",
+    "hours": "Office Hours",
+    "hoursValue": "Monday to Saturday, 8:30 AM to 3:30 PM",
+    "mapTitle": "Sunrise Public School location map",
+    "form": {
+      "title": "Send a Message",
+      "name": "Your Name",
+      "email": "Email Address",
+      "subject": "Subject",
+      "message": "Message",
+      "submit": "Send Message",
+      "success": "Thank you. Your message has been sent."
+    }
+  }
+}
