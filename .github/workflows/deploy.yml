@@ -18,14 +18,13 @@ jobs:
         with:
           node-version: 18
 
-      - name: Install dependencies
-        run: npm install
+      - name: Install dependencies (FIX)
+        run: |
+          npm config set production false
+          npm install
 
-      - name: Fix node_modules permissions
-        run: chmod -R 755 node_modules
-
-      - name: Build React app
-        run: node node_modules/vite/bin/vite.js build
+      - name: Build React app (FINAL FIX)
+        run: npx --yes vite build
 
       - name: Build Docker Image
         run: docker build -t ${{ secrets.DOCKER_USERNAME }}/reactapp .
