@@ -11,23 +11,25 @@ jobs:
 
     steps:
       - name: Code checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Setup Node
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
           node-version: 18
 
-      - name: Clean install dependencies (FIXED)
+      - name: Clear npm cache
+        run: npm cache clean --force
+
+      - name: Clean install dependencies
         run: |
           rm -rf node_modules package-lock.json
-          npm cache clean --force
           npm install
 
       - name: Verify Tailwind issue removed
         run: npm ls @tailwindcss/oxide || true
 
-      - name: Build React app (SAFE)
+      - name: Build React app
         run: npm run build
 
       - name: Build Docker Image
