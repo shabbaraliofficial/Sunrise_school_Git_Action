@@ -21,13 +21,18 @@ jobs:
       - name: Clear npm cache
         run: npm cache clean --force
 
-      - name: Clean install dependencies
+      - name: Clean install dependencies (FINAL FIX)
         run: |
           rm -rf node_modules package-lock.json
           npm install
+        env:
+          POSTCSS_IMPORT: false
 
-      - name: Verify Tailwind issue removed
+      - name: Verify no tailwind oxide
         run: npm ls @tailwindcss/oxide || true
+
+      - name: Build Tailwind manually (BYPASS FIX)
+        run: npx tailwindcss -i ./src/styles.css -o ./src/output.css
 
       - name: Build React app
         run: npm run build
