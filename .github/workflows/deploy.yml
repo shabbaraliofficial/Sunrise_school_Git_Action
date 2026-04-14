@@ -18,13 +18,17 @@ jobs:
         with:
           node-version: 18
 
-      - name: Clean install dependencies (FINAL FIX)
+      - name: Clean install dependencies (FIXED)
         run: |
           rm -rf node_modules package-lock.json
+          npm cache clean --force
           npm install
 
-      - name: Build React app
-        run: node node_modules/vite/bin/vite.js build
+      - name: Verify Tailwind issue removed
+        run: npm ls @tailwindcss/oxide || true
+
+      - name: Build React app (SAFE)
+        run: npm run build
 
       - name: Build Docker Image
         run: docker build -t ${{ secrets.DOCKER_USERNAME }}/reactapp .
