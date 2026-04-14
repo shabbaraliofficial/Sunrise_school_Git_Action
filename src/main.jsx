@@ -3,7 +3,8 @@ import { createRoot } from 'react-dom/client';
 import { BrowserRouter } from 'react-router-dom';
 import App from './App.jsx';
 import './i18n.js';
-import './styles.css';
+// import './styles.css';
+import './tailwind.css'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
